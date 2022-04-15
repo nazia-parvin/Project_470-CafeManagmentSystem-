@@ -224,8 +224,8 @@ a:hover::after {
   background-image: url("../../assets/img/food1.jpg");
   
   /* Add the blur effect */
-  filter: blur(3px);
-  -webkit-filter: blur(3px);
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
   
   /* Full height */
   height: 100%; 
